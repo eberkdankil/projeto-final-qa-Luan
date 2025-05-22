@@ -104,3 +104,17 @@ Qual resultado esperado
 
 
 Link para o arquivo (ex: testes/teste_01.py)
+
+
+6. Conclusão Final
+Escreva um parágrafo com sua reflexão pessoal, respondendo:
+O que você aprendeu de mais importante?
+
+
+Como você enxerga a área de QA no seu futuro profissional?
+
+
+Qual ferramenta ou tema mais chamou sua atenção e por quê?
+
+
+
