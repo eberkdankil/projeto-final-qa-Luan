@@ -163,12 +163,14 @@ DevTools listening on ws://127.0.0.1:57342/devtools/browser/a150a819-12b2-4f30-a
 ##  6. Conclusão Final
 
 ###  O que você aprendeu de mais importante?
+
 Aprendi que a garantir a qualidade daquilo que você quer entregar, vai ser o diferencial entre mim e os concorrentes.
 
-##  Como você enxerga a área de QA no seu futuro profissional?
+###  Como você enxerga a área de QA no seu futuro profissional?
+
 A área de QA pode não ser o que eu vá seguir no futuro, mas estarei levando o aprendizado para todos os projetos que eu fazer ou participar daqui em diante
 
-##  Qual ferramenta ou tema mais chamou sua atenção e por quê?
+###  Qual ferramenta ou tema mais chamou sua atenção e por quê?
 
 O tema de CI/DI, pois como pretendo seguir com a carreira de DevOps, ver a explicação de como é aplicada a entrega continua e a integração continua no mertcado de trabalho me deixa ainda mais animado para estudar sobre o assunto e aplica-lo quando possível.
 
