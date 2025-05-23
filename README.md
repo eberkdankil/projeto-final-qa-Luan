@@ -91,7 +91,7 @@ Envolve o uso de:
 
 ## 5. Explicação dos Testes Entregues
 
-### 🔹 Nome do teste: Teste de Requisição com Requests
+### 1 🔹 Nome do teste: Teste de Requisição com Requests
 
 **Objetivo:**  
 Testar se uma requisição GET para uma API pública retorna uma resposta válida (status 200) e com dados no formato esperado (JSON).
@@ -103,11 +103,11 @@ Testar se uma requisição GET para uma API pública retorna uma resposta válid
 A API deve retornar status code `200` e exibir os dados JSON esperados da URL consultada.
 
 **Link para o arquivo:**  
-[testes/teste_requisicao_api.py](Testes/teste_01.py)
+[teste_requisicao_api](Testes/teste_01.py)
 
 ---
 
-### 🔹 Nome do teste: Teste Unitário de Soma
+### 2 🔹 Nome do teste: Teste Unitário de Soma
 
 **Objetivo:**  
 Verificar se a função `somar(a, b)` retorna o valor correto ao somar dois números, cobrindo diferentes cenários (positivos, negativos e zero).
@@ -119,11 +119,11 @@ Verificar se a função `somar(a, b)` retorna o valor correto ao somar dois núm
 A função deve retornar a soma correta dos dois valores fornecidos em cada caso de teste.
 
 **Link para o arquivo:**  
-[testes/teste_unitario_soma.py](Testes/Teste_02.py)
+[teste_unitario_soma](Testes/Teste_02.py)
 
 ---
 
-### 🔹 Nome do teste: Teste Automatizado com Selenium
+### 3 🔹 Nome do teste: Teste Automatizado com Selenium
 
 **Objetivo:**  
 Simular o acesso ao Google, realizar uma busca por “Quality Assurance” e validar se a navegação funciona corretamente.
@@ -135,7 +135,7 @@ Simular o acesso ao Google, realizar uma busca por “Quality Assurance” e val
 A automação deve abrir o navegador, preencher o campo de busca, enviar a pesquisa e exibir o título da página de resultados.
 
 **Link para o arquivo:**  
-[testes/teste_busca_google.py](Testes/teste_03.py)
+[teste_busca_google](Testes/Teste_03.py)
 
 6. Conclusão Final
 Escreva um parágrafo com sua reflexão pessoal, respondendo:
