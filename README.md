@@ -105,6 +105,10 @@ A API deve retornar status code `200` e exibir os dados JSON esperados da URL co
 **Link para o arquivo:**  
 [teste_requisicao_api](Testes/teste_01.py)
 
+**Link Colab**
+
+[Colab](https://colab.research.google.com/drive/1FHLaRFcEFW-IwomhqpPWR5g_UD9IWAGU?usp=sharing)
+
 ---
 
 ### 2 🔹 Nome do teste: Teste Unitário de Soma
@@ -120,6 +124,10 @@ A função deve retornar a soma correta dos dois valores fornecidos em cada caso
 
 **Link para o arquivo:**  
 [teste_unitario_soma](Testes/Teste_02.py)
+
+**Link Colab**
+
+[Colab](https://colab.research.google.com/drive/1ApNJ7SFieJurQNPpl8V8L5OrUnzz_J8j?usp=sharing)
 
 ---
 
@@ -137,15 +145,30 @@ A automação deve abrir o navegador, preencher o campo de busca, enviar a pesqu
 **Link para o arquivo:**  
 [teste_busca_google](Testes/Teste_03.py)
 
-6. Conclusão Final
-Escreva um parágrafo com sua reflexão pessoal, respondendo:
-O que você aprendeu de mais importante?
+**Provas**
 
+![image](https://github.com/user-attachments/assets/96ba5b54-6b39-4195-b785-5ee29cac898c)
 
-Como você enxerga a área de QA no seu futuro profissional?
+**Resposta**
 
+DevTools listening on ws://127.0.0.1:57342/devtools/browser/a150a819-12b2-4f30-a96c-90634cd43774
+[4856:19000:0522/210928.824:ERROR:net\socket\ssl_client_socket_impl.cc:877] handshake failed; returned -1, SSL error code 1, net_error -101
+[4856:19000:0522/210928.829:ERROR:net\socket\ssl_client_socket_impl.cc:877] handshake failed; returned -1, SSL error code 1, net_error -101
+[4856:19000:0522/210928.839:ERROR:net\socket\ssl_client_socket_impl.cc:877] handshake failed; returned -1, SSL error code 1, net_error -101
+[4856:19000:0522/210928.844:ERROR:net\socket\ssl_client_socket_impl.cc:877] handshake failed; returned -1, SSL error code 1, net_error -101
+**Título da página: Quality Assurance - Pesquisa Google**
 
-Qual ferramenta ou tema mais chamou sua atenção e por quê?
+---
 
+##  6. Conclusão Final
 
+###  O que você aprendeu de mais importante?
+Aprendi que a garantir a qualidade daquilo que você quer entregar, vai ser o diferencial entre mim e os concorrentes.
+
+##  Como você enxerga a área de QA no seu futuro profissional?
+A área de QA pode não ser o que eu vá seguir no futuro, mas estarei levando o aprendizado para todos os projetos que eu fazer ou participar daqui em diante
+
+##  Qual ferramenta ou tema mais chamou sua atenção e por quê?
+
+O tema de CI/DI, pois como pretendo seguir com a carreira de DevOps, ver a explicação de como é aplicada a entrega continua e a integração continua no mertcado de trabalho me deixa ainda mais animado para estudar sobre o assunto e aplica-lo quando possível.
 
