@@ -91,22 +91,6 @@ Envolve o uso de:
 
 ## 5. Explicação dos Testes Entregues
 
-### 🔹 Nome do teste: Teste Unitário de Soma
-
-**Objetivo:**  
-Verificar se a função `somar(a, b)` retorna o valor correto ao somar dois números, cobrindo diferentes cenários (positivos, negativos e zero).
-
-**Biblioteca Python utilizada:**  
-`pytest`
-
-**Resultado esperado:**  
-A função deve retornar a soma correta dos dois valores fornecidos em cada caso de teste.
-
-**Link para o arquivo:**  
-[testes/teste_unitario_soma.py](testes/tese_01.py)
-
----
-
 ### 🔹 Nome do teste: Teste de Requisição com Requests
 
 **Objetivo:**  
@@ -119,7 +103,23 @@ Testar se uma requisição GET para uma API pública retorna uma resposta válid
 A API deve retornar status code `200` e exibir os dados JSON esperados da URL consultada.
 
 **Link para o arquivo:**  
-[testes/teste_requisicao_api.py](testes/teste_requisicao_api.py)
+[testes/teste_requisicao_api.py](testes/teste_01.py)
+
+---
+
+### 🔹 Nome do teste: Teste Unitário de Soma
+
+**Objetivo:**  
+Verificar se a função `somar(a, b)` retorna o valor correto ao somar dois números, cobrindo diferentes cenários (positivos, negativos e zero).
+
+**Biblioteca Python utilizada:**  
+`pytest`
+
+**Resultado esperado:**  
+A função deve retornar a soma correta dos dois valores fornecidos em cada caso de teste.
+
+**Link para o arquivo:**  
+[testes/teste_unitario_soma.py](testes/teste_02.py)
 
 ---
 
@@ -135,7 +135,7 @@ Simular o acesso ao Google, realizar uma busca por “Quality Assurance” e val
 A automação deve abrir o navegador, preencher o campo de busca, enviar a pesquisa e exibir o título da página de resultados.
 
 **Link para o arquivo:**  
-[testes/teste_busca_google.py](testes/teste_busca_google.py)
+[testes/teste_busca_google.py](testes/teste_03.py)
 
 6. Conclusão Final
 Escreva um parágrafo com sua reflexão pessoal, respondendo:
