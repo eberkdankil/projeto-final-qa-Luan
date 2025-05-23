@@ -119,7 +119,7 @@ Verificar se a função `somar(a, b)` retorna o valor correto ao somar dois núm
 A função deve retornar a soma correta dos dois valores fornecidos em cada caso de teste.
 
 **Link para o arquivo:**  
-[testes/teste_unitario_soma.py](Testes/teste_02.py)
+[testes/teste_unitario_soma.py](Testes/Teste_02.py)
 
 ---
 
